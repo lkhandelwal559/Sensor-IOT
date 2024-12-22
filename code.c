@@ -2,6 +2,7 @@
 #include<conio.h>
 #include <dht.h>
 #include <stdio.h>
+
 int main() {
     if (wiringPiSetup() == -1)
         return 1; // Error
