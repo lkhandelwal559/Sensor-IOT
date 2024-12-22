@@ -1,4 +1,5 @@
 #include <wiringPi.h>
+#include<conio.h>
 #include <dht.h>
 #include <stdio.h>
 int main() {
