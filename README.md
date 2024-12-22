@@ -1,4 +1,5 @@
 Experimental Code
+
 This C code reads temperature and humidity data from a DHT22 sensor using the WiringPi library on a Raspberry Pi and prints the values to the console.
 
 Initializes WiringPi.
